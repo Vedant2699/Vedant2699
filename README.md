@@ -22,7 +22,7 @@ I've owned full pipelines: from raw data ingestion to executive-level presentati
 |---|---|---|---|
 | 01 | **Bitcoin Price Forecasting** — 8 models, walk-forward validation, backtested trading strategy | Python · ARIMA · XGBoost · Backtesting | [→ View](https://github.com/Vedant2699/BITCOIN-PREDICTION) |
 | 02 | **Product Sales Forecasting Pipeline** — per-SKU ARIMA with MAPE-based model selection | Python · ARIMA · Pandas · Plotly | [→ View](https://github.com/Vedant2699/PRODUCT-SALES-FORECASTING) |
-| 03 | **Job Fit Analyzer** — time series, volatility, risk vs return across 4+ blue-chips | NLP · Pandas · sklearn | [→ View](https://github.com/Vedant2699/JOB-FIT-ANALYST) |
+| 03 | **Job Fit Analyzer** — Measures overall textual similarity between resume and JD | NLP · Pandas · sklearn | [→ View](https://github.com/Vedant2699/JOB-FIT-ANALYST) |
 | 04 | **Supply Chain Analysis** — SKU-level revenue, inventory & shipping cost breakdown | Pandas · NumPy · Plotly | [→ View](https://github.com/Vedant2699/Supply-Chain-Data-Analysis) |
 | 05 | **UK Recession Analysis** — GDP decomposition, recession period detection, severity scoring | NumPy · Plotly · Macroeconomic Modeling | [→ View](https://github.com/Vedant2699/Recession-Analysis) |
 
