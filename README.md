@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Banglekar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-banglekar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vedant2699-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vedant2699)
-[![Open to Work](https://img.shields.io/badge/Open_to-Data_Analyst_|_BI_Developer_| ML Practioner Roles-brightgreen?style=flat-square)]()
-
+[![Open to Work](https://img.shields.io/badge/Open_to-Data_Analyst_|_BI_Developer Roles-brightgreen?style=flat-square)]()
 
 </div>
 
