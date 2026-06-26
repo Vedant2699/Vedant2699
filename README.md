@@ -1,4 +1,4 @@
-!(banner.svg)https://raw.githubusercontent.com/Vedant2699/Vedant2699/3c3c1a20c161f4c28df50139eafbe9a766708f79/banner.svg
+!(banner.svg)
 
 
 <div align="center">
