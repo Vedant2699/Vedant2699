@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Vedant Banglekar — Data Analyst · Power BI Developer · ML Practitioner</title>
+  <desc>Profile banner with sky blue to light yellow gradient background</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#DAEEF8"/>
+      <stop offset="100%" stop-color="#FFF8DC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="160" fill="url(#bgGrad)" rx="12"/>
+  <rect x="0" y="0" width="6" height="160" fill="#2A7FA5" rx="3"/>
+
+  <rect x="40" y="34" width="600" height="1.5" fill="#2A7FA5" opacity="0.25"/>
+  <rect x="40" y="126" width="600" height="1.5" fill="#C8A84B" opacity="0.35"/>
+
+  <text x="48" y="88" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0D1B2A" letter-spacing="-1">Vedant Banglekar</text>
+  <text x="50" y="114" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1C3D55">Data Analyst · Power BI Developer · ML Practitioner</text>
+
+  <circle cx="638" cy="80" r="32" fill="#2A7FA5" opacity="0.10"/>
+  <circle cx="638" cy="80" r="20" fill="#2A7FA5" opacity="0.12"/>
+  <circle cx="638" cy="80" r="8" fill="#2A7FA5" opacity="0.3"/>
+</svg>
