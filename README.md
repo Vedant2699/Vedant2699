@@ -1,4 +1,4 @@
-![Banner](banner.svg)
+!(banner.svg)
 
 <div align="center">
 
