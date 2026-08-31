@@ -14,6 +14,8 @@ Data practitioner with **2.5+ years** of professional experience building analyt
 
 I've owned full pipelines: from raw data ingestion to executive-level presentations, with measurable outcomes at every step. Currently looking for **Data Analyst / Power BI Developer** roles across Bengaluru · Mumbai · Pune — open to anywhere in India.
 
+[CHECK MY WEBSITE][https://vedant2699.github.io/](url)
+
 ---
 
 ## Projects
